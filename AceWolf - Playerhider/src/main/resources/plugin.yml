@@ -1,0 +1,7 @@
+name: Playerhider
+author: ptg
+version: 1.0
+main: eu.acewolf.playerhider.Playerhider
+api-version: 1.16
+commands:
+  playerhider:

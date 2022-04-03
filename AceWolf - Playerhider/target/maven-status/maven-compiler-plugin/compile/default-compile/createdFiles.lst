@@ -1,0 +1,10 @@
+eu\acewolf\playerhider\listener\InventoryClickListener.class
+eu\acewolf\playerhider\command\playerhider_command.class
+eu\acewolf\playerhider\mysql\MySQL.class
+eu\acewolf\playerhider\listener\JoinListener.class
+eu\acewolf\playerhider\listener\QuitListener.class
+eu\acewolf\playerhider\mysql\MySQL$1.class
+eu\acewolf\playerhider\mysql\DatenbankMethods.class
+eu\acewolf\playerhider\utils\ItemManager.class
+eu\acewolf\playerhider\mysql\MySQL$2.class
+eu\acewolf\playerhider\utils\GUIManager.class
